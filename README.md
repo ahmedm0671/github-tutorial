@@ -4,8 +4,9 @@
 
 ---
 ## Git vs. GitHub
-The difference between Git and Github is that **Github** is a service that hosts repositories and has many of its own features. **Git** however is a command line tool that can be used in GitHub for coding.
-
+The difference between Git and Github is that **Github** serve as a cloud to the repositories.
+and has many of its own features. **Git** however is a command line tool that can be used in GitHub for coding.
+Git helps keep track of all your work, and all the saves/commits and allows you to load back a previous save/commit
 
 
 ---
@@ -15,9 +16,9 @@ The difference between Git and Github is that **Github** is a service that hosts
 * Click on "Sign Up" at the top right of the page.
 * Enter your credentials for creating an account: **Username, Email, Password**
 * Choose your plan. You can either choose to have a **Paid** plan for added exclusive features, or have a **Free** plan with limited features.
-* You can choose toTailor Your Experience**, or skip this step.
+* You can choose to tailor your **Experience**, or skip this step.
 
-
+* Make sure you like it to your [c9](https://c9.io/) account, so you can sign in with your github instead of your c9 account everytime you log in.
 ---
 ## Repository Setup
 
